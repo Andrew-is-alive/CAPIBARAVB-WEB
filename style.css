@@ -24,7 +24,6 @@ body{
 }
 .wrapper{
   box-sizing: border-box;
-  background-color: var(--base-color);
   height: 100vh;
   width: max(40%, 600px);
   padding: 10px;
